@@ -1,11 +1,14 @@
-class Cat {
-   String name ;
-   int Age; 
+
+class Cat extends Animal {
+   
 }
 
 
-class Dog {
+class Dog extends Animal {
+  
+}
+class Animal {
    String name ;
-   String Age;
+   int Age;
 }
 
