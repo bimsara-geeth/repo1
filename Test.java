@@ -1,5 +1,11 @@
 class Cat {
+   String name ;
+   int Age; 
 }
 
 
-class Dog {}
+class Dog {
+   String name ;
+   String Age;
+}
+
